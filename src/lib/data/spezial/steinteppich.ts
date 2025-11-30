@@ -5,7 +5,6 @@ export const steinteppich: FloorType = {
 	name: 'Steinteppich',
 	slug: 'steinteppich',
 	icon: '🪨',
-	shortDescription: 'Kiesel in Kunstharz',
 	description: 'Steinteppich besteht aus kleinen Natursteinen (Marmorkies, Flusskiesel), die mit transparentem Kunstharz gebunden werden. Das Ergebnis: eine drainagefähige, rutschfeste und optisch einzigartige Oberfläche.',
 	heroTitle: 'Steinteppich - Natur trifft Technik',
 	heroDescription: 'Millionen kleiner Steine, verbunden zu einer einzigartigen Fläche. Ideal für Außenbereiche und überall, wo natürliche Optik gefragt ist.',

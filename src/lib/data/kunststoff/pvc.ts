@@ -5,7 +5,6 @@ export const pvc: FloorType = {
 	name: 'PVC-Boden',
 	slug: 'pvc',
 	icon: '🔲',
-	shortDescription: 'Klassiker für Nutzräume',
 	description: 'PVC-Böden sind die günstige und praktische Lösung für stark beanspruchte Bereiche. Wasserfest, pflegeleicht und in vielen Dekoren erhältlich - ideal für Keller, Garage und Nutzräume.',
 	heroTitle: 'PVC-Boden - Praktisch und günstig',
 	heroDescription: 'Der unverwüstliche Allrounder für Keller, Garage und Nutzräume. Wasserfest, pflegeleicht und extrem preiswert.',

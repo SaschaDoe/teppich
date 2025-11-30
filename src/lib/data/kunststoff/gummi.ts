@@ -5,7 +5,6 @@ export const gummi: FloorType = {
 	name: 'Gummi / Kautschuk',
 	slug: 'gummi',
 	icon: '⚫',
-	shortDescription: 'Extrem strapazierfähig',
 	description: 'Gummi- und Kautschukböden sind die Spezialisten für extreme Beanspruchung. Ob Fitnessstudio, Industriehalle oder öffentliche Gebäude - hier hält Gummi was andere Böden nicht schaffen.',
 	heroTitle: 'Gummiboden - Unverwüstlich',
 	heroDescription: 'Der Boden für Extremsituationen. Stoßdämpfend, rutschfest und praktisch unzerstörbar.',

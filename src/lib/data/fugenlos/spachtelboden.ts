@@ -5,7 +5,6 @@ export const spachtelboden: FloorType = {
 	name: 'Spachtelboden',
 	slug: 'spachtelboden',
 	icon: '🖌️',
-	shortDescription: 'Individuell gestaltet',
 	description: 'Gespachtelte Böden vereinen Handwerkskunst mit moderner Ästhetik. Ob Designspachtel, Pandomo oder Betonoptik - jeder Boden wird von Hand gestaltet und ist ein Unikat.',
 	heroTitle: 'Spachtelboden - Handwerk trifft Design',
 	heroDescription: 'Von Künstlerhand gespachtelt. Jeder Boden ein Unikat mit lebendiger Oberfläche und charaktervoller Struktur.',

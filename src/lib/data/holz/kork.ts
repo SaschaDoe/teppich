@@ -5,7 +5,6 @@ export const kork: FloorType = {
 	name: 'Korkboden',
 	slug: 'kork',
 	icon: '🍾',
-	shortDescription: 'Warm, elastisch, nachhaltig',
 	description: 'Korkböden vereinen Komfort mit Nachhaltigkeit. Das natürliche Material dämmt Wärme und Schall, federt Schritte ab und schont die Gelenke. Die Korkrinde regeneriert sich - ein vorbildlicher Kreislauf.',
 	heroTitle: 'Korkboden - Natürlich komfortabel',
 	heroDescription: 'Entdecken Sie das einzigartige Laufgefühl auf Kork. Warm, weich, schallschluckend und 100% natürlich.',

@@ -5,7 +5,6 @@ export const mikrozement: FloorType = {
 	name: 'Mikrozement',
 	slug: 'mikrozement',
 	icon: '🏛️',
-	shortDescription: 'Beton-Optik ultradünn',
 	description: 'Mikrozement ist eine hauchdünne Zementbeschichtung (2-3mm), die auf fast jeden Untergrund aufgetragen werden kann. Das Ergebnis: fugenlose Betonoptik ohne aufwändigen Umbau.',
 	heroTitle: 'Mikrozement - Beton ohne Beton',
 	heroDescription: 'Nur 2-3mm dick und doch die volle Wirkung. Mikrozement verwandelt jeden Raum in ein modernes Designobjekt.',

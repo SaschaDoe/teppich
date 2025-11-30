@@ -5,7 +5,6 @@ export const bambus: FloorType = {
 	name: 'Bambusboden',
 	slug: 'bambus',
 	icon: '🎋',
-	shortDescription: 'Hart, nachhaltig, exotisch',
 	description: 'Bambus ist kein Holz, sondern ein Gras - und das härteste natürliche Bodenmaterial überhaupt. In nur 5 Jahren erntereif, ist Bambus extrem nachhaltig und überzeugt mit exotischer Eleganz.',
 	heroTitle: 'Bambusboden - Härter als Eiche',
 	heroDescription: 'Entdecken Sie die Stärke der Natur. Bambus wächst bis zu 1 Meter pro Tag und ist härter als jedes europäische Holz.',

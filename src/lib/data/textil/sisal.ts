@@ -5,7 +5,6 @@ export const sisal: FloorType = {
 	name: 'Sisal / Kokos',
 	slug: 'sisal',
 	icon: '🌿',
-	shortDescription: 'Robuste Naturfasern',
 	description: 'Sisal- und Kokosböden sind die robusten Vertreter unter den Naturfaserbelägen. Aus den Blättern der Agave (Sisal) oder der Kokosnuss gewonnen, vereinen sie Nachhaltigkeit mit extremer Strapazierfähigkeit.',
 	heroTitle: 'Sisal & Kokos - Natur pur',
 	heroDescription: 'Robuste Naturfasern für anspruchsvolle Bereiche. Nachhaltig, strapazierfähig und mit einzigartigem Charakter.',

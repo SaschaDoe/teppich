@@ -5,7 +5,6 @@ export const terrazzo: FloorType = {
 	name: 'Terrazzo',
 	slug: 'terrazzo',
 	icon: '🎨',
-	shortDescription: 'Edles Marmorsplit-Design',
 	description: 'Terrazzo ist ein traditionelles italienisches Kunsthandwerk, das sein Comeback feiert. Marmorsplitter in Zement oder Kunstharz ergeben einzigartige, zeitlose Böden.',
 	heroTitle: 'Terrazzo - Renaissance eines Klassikers',
 	heroDescription: 'Von venezianischen Palästen in moderne Designerwohnungen: Terrazzo ist zurück - schöner denn je.',

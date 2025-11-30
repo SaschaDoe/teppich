@@ -5,7 +5,6 @@ export const epoxidharz: FloorType = {
 	name: 'Epoxidharz',
 	slug: 'epoxidharz',
 	icon: '💧',
-	shortDescription: 'Hochglänzend und robust',
 	description: 'Epoxidharz-Böden sind die Königsklasse der Industrieböden, die zunehmend auch im Wohnbereich Einzug halten. Spiegelglatt, extrem belastbar und in unendlichen Farben und Effekten möglich.',
 	heroTitle: 'Epoxidharz - Liquid Glass',
 	heroDescription: 'Flüssiges Glas für Ihren Boden. Epoxidharz bietet unendliche kreative Möglichkeiten bei höchster Belastbarkeit.',

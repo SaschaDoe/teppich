@@ -5,7 +5,6 @@ export const leder: FloorType = {
 	name: 'Lederboden',
 	slug: 'leder',
 	icon: '👜',
-	shortDescription: 'Luxuriös und einzigartig',
 	description: 'Lederböden sind der Inbegriff von Luxus und Exklusivität. Ob Echtleder-Fliesen oder ganze Lederflächen - dieser Boden ist ein Statement für Menschen mit außergewöhnlichem Geschmack.',
 	heroTitle: 'Lederboden - Ultimativer Luxus',
 	heroDescription: 'Wenn Parkett und Marmor nicht exklusiv genug sind. Lederboden ist die Königsklasse der Bodenbeläge.',

@@ -5,7 +5,6 @@ export const glas: FloorType = {
 	name: 'Glasboden',
 	slug: 'glas',
 	icon: '🔍',
-	shortDescription: 'Transparent und modern',
 	description: 'Glasböden sind das ultimative Designelement für besondere Architektur. Ob begehbares Glas über Lichthöfen, Glasbrücken oder beleuchtete Glasflächen - hier trifft Technik auf Kunst.',
 	heroTitle: 'Glasboden - Schweben über dem Abgrund',
 	heroDescription: 'Licht, Transparenz und Architektur verschmelzen. Glasböden sind für alle, die das Besondere suchen.',

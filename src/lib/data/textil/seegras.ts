@@ -5,7 +5,6 @@ export const seegras: FloorType = {
 	name: 'Seegras',
 	slug: 'seegras',
 	icon: '🌊',
-	shortDescription: 'Natürlich strukturiert',
 	description: 'Seegrasböden werden aus den Fasern von Wasserpflanzen gewoben. Das natürliche Material ist von Natur aus fleckenresistent und bringt eine einzigartige, organische Struktur in jeden Raum.',
 	heroTitle: 'Seegras - Aus dem Wasser in Ihr Zuhause',
 	heroDescription: 'Natürlich imprägniert, wunderschön strukturiert und überraschend pflegeleicht. Seegras ist die elegante Naturfaser.',

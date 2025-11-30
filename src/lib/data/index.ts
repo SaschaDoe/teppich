@@ -94,7 +94,8 @@ export const floorTypes: Record<string, FloorType> = {
 	steinteppich
 };
 
-export function getFloorType(slug: string): FloorType | undefined {
+export function getFloorType(slug: string | undefined): FloorType | undefined {
+	if (!slug) return undefined;
 	return floorTypes[slug];
 }
 

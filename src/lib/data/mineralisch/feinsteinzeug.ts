@@ -5,7 +5,6 @@ export const feinsteinzeug: FloorType = {
 	name: 'Feinsteinzeug',
 	slug: 'feinsteinzeug',
 	icon: '💎',
-	shortDescription: 'Hochwertige dichte Keramik',
 	description: 'Feinsteinzeug ist die Premium-Variante keramischer Fliesen. Mit einer Wasseraufnahme unter 0,5% ist es extrem dicht, frostfest und für höchste Beanspruchungen geeignet - innen wie außen.',
 	heroTitle: 'Feinsteinzeug - Das Beste der Keramik',
 	heroDescription: 'Dichter, härter, langlebiger: Feinsteinzeug vereint alle Vorteile von Fliesen in Perfektion.',

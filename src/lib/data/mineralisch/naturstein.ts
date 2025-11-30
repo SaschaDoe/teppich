@@ -5,7 +5,6 @@ export const naturstein: FloorType = {
 	name: 'Naturstein',
 	slug: 'naturstein',
 	icon: '🪨',
-	shortDescription: 'Marmor, Granit, Schiefer',
 	description: 'Naturstein ist der Inbegriff von Luxus und Beständigkeit. Ob edler Marmor, robuster Granit oder rustikaler Schiefer - jede Platte ist ein Unikat der Natur.',
 	heroTitle: 'Naturstein - Ewige Schönheit',
 	heroDescription: 'Millionen Jahre alt und immer noch zeitlos elegant. Naturstein ist das ultimative Statement für anspruchsvolle Räume.',

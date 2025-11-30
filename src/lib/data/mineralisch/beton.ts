@@ -5,7 +5,6 @@ export const beton: FloorType = {
 	name: 'Betonboden',
 	slug: 'beton',
 	icon: '🏗️',
-	shortDescription: 'Industrial-Look modern',
 	description: 'Sichtbeton ist der Inbegriff des Industrial-Styles. Ob als geschliffener Estrich, polierter Beton oder Designboden - die puristische Ästhetik ist zeitlos modern.',
 	heroTitle: 'Betonboden - Industrial Chic',
 	heroDescription: 'Roh, ehrlich, modern. Betonböden sind das Statement für minimalistisches Design.',

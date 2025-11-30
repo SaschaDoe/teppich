@@ -5,7 +5,6 @@ export const linoleum: FloorType = {
 	name: 'Linoleum',
 	slug: 'linoleum',
 	icon: '🌿',
-	shortDescription: 'Natürlich und nachhaltig',
 	description: 'Linoleum ist ein zu 100% natürlicher Bodenbelag aus Leinöl, Kork, Holzmehl und Jute. Bereits seit über 150 Jahren bewährt, erlebt dieses antibakterielle und antistatische Material eine Renaissance.',
 	heroTitle: 'Linoleum - Der Naturwerkstoff',
 	heroDescription: '100% natürlich, antibakteriell und nachhaltig. Linoleum besteht aus Leinöl, Korkmehl, Holzmehl und Jute - Natur pur unter Ihren Füßen.',

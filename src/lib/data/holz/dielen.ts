@@ -5,7 +5,6 @@ export const dielen: FloorType = {
 	name: 'Massivholzdielen',
 	slug: 'dielen',
 	icon: '🌲',
-	shortDescription: 'Klassische breite Holzdielen',
 	description: 'Massivholzdielen sind der Inbegriff natürlicher Bodengestaltung. Die breiten, durchgehenden Holzbohlen bringen Wärme und Charakter in jeden Raum und entwickeln über die Jahre eine einzigartige Patina.',
 	heroTitle: 'Massivholzdielen - Echte Handwerkskunst',
 	heroDescription: 'Erleben Sie die zeitlose Schönheit massiver Holzdielen. Jede Diele ein Unikat mit einzigartiger Maserung und Charakter.',
