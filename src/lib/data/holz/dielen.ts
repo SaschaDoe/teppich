@@ -20,7 +20,7 @@ export const dielen: FloorType = {
 			name: 'Eiche Massiv',
 			icon: '🌳',
 			description: 'Der Klassiker unter den Massivholzdielen. Eiche überzeugt durch extreme Härte, wunderschöne Maserung und hohe Langlebigkeit.',
-			pros: ['Extrem langlebig', 'Sehr hart (Brinell 34)', 'Wertsteigernd', 'Mehrfach abschleifbar'],
+			pros: ['Extrem langlebig', 'Sehr hart (Brinell 3.4)', 'Wertsteigernd', 'Mehrfach abschleifbar'],
 			cons: ['Hoher Preis', 'Professionelle Verlegung nötig', 'Empfindlich gegen Feuchtigkeit'],
 			priceRange: '€€€',
 			pricePerSqm: '80-150€',
